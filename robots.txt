@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://klaymand.github.io/sitemap.klaymand.gz
+Sitemap: https://klaymand.github.io/app/sitemap.klaymand.gz
+Sitemap: https://klaymand.github.io/assets/sitemap.klaymand.gz
+Sitemap: https://klaymand.github.io/css/sitemap.klaymand.gz
+Sitemap: https://klaymand.github.io/data/sitemap.klaymand.gz
+Sitemap: https://klaymand.github.io/includes/sitemap.klaymand.gz
+Sitemap: https://klaymand.github.io/item/sitemap.klaymand.gz
+Sitemap: https://klaymand.github.io/src/sitemap.klaymand.gz
